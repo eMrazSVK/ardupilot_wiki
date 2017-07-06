@@ -40,7 +40,11 @@ Build instructions
       are created with much much longer paths which can exceed Windows'
       260 character path limit.
 
-Initialise and update submodules
+In Git bash, navigate to ardupilot directory. For example
+"C:\\Users\\rmackay9\\Documents\\GitHub\\ardupilot" 
+and initialise and update submodules by typing following commands:
+::
+    git init
 
 ::
 
